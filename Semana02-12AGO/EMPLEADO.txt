@@ -1,0 +1,22 @@
+
+EMPLEADO
+===========================================================
+- IDEMPLEADO
+- DNI
+- NOMBRE
+- TIPO (CONTABILIDAD,INGENIERIA, ADMINISTRATIVO, ETC.) (Sugenrencia: area o departamento)
+- FECHA NAC.
+- REGIMEN LABORAL (CONTRATADO O PERMANENTE)
+- ESTADO CIVIL (SOLTERO, CASADO, ETC.)
+- AÑOS LABORADOS 
+- FECHA ING.
+- ESTADO (ACTIVO O BAJA)
+- MODALIDAD (FULL O PART TIME)
+- EDAD (Sugerencia: Fecha de Nac.)
+- CELULAR
+- CORREO
+- DIRECCION
+
+
+
+
